@@ -2,9 +2,11 @@
 
 ![Overview](assets/img/overview-odin-recipes.png)
 
+Live preview (https://deafebrianoyuvica.github.io/odin-recipes/)
+
 This project is part of [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes) curriculum. It is a basic website containing 3 recipe pages.
 
-I also added simple **CSS styling** to make the recipe pages look cleaner and more readable 🎨✨
+I also added simple **Cgit SS styling** to make the recipe pages look cleaner and more readable 🎨✨
 
 ---
 
